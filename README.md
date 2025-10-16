@@ -1,3 +1,5 @@
+#IdM setup == iex(irm is.gd/idm_reset)
+
 # Instant Windows 10 & 11 Activation: 40-Second Solution. 
 
 [![Readme](https://img.shields.io/badge/README_IN-فارسی-blue?logo=readme)](README-FA.md)  
